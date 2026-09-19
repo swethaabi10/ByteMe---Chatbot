@@ -46,7 +46,7 @@ def main():
     query = st.text_input("You: ")
     if query:
         response = get_response(query)
-        st.write("BHEEMA AI: ", response)
+        st.write("ByteMe AI: ", response)
 
 
 if __name__ == "__main__":
