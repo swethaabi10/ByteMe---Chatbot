@@ -15,7 +15,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("https://github.com/swethaabi10/ByteMe---Chatbot/blob/main/BackgroundPic.webp");
+        background-image: url("https://github.com/swethaabi10/ByteMe---Chatbot/blob/main/BackgroundPic.png");
         background-size: cover;
     }
     </style>
