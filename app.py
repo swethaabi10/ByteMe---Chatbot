@@ -42,11 +42,11 @@ def get_response(query):
 
 
 def main():
-    st.title("HELLO I'M ByteMe AI Chatbot")
+    st.title("HELLO I'M Rona AI Chatbot")
     query = st.text_input("You: ")
     if query:
         response = get_response(query)
-        st.write("ByteMe AI: ", response)
+        st.write("Rona AI: ", response)
 
 
 if __name__ == "__main__":
